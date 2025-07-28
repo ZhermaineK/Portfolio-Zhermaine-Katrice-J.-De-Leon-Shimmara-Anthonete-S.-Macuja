@@ -16,3 +16,8 @@ This repository contains our laboratory portfolio for BI120L: Data Science for H
 1. Explore and analyze various real-world health-related datasets using appropriate programming tools.
 2. Generate clean, reproducible reports with visualizations and code for scientific communication.
 3. Apply version control and open science practices through GitHub project organization.
+
+---
+
+# Additional Notes
+- Plots were uploaded into seperate branches from main. Each branch is named accordingly.
